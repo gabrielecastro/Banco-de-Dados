@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<img src="zedelivery.jpg" />
-=======
+
 #### Projeto conceitual do banco de dados para o aplicativo de delivery de bebidas: ZÉ DELIVERY
 
-
-<img src="ze-delivery.jpg" />
+<img src="zedelivery.jpg" />
 
 <details>
 <summary><strong>Regras de negócio</strong></summary><br />
@@ -35,4 +32,3 @@ As seguintes informações precisam ser salvas: código do relatório, código d
 valor total de vendas, data início e data fim do relatório.
 
 </details>
->>>>>>> 845d7c007804851c497cf399f994fedbe8181d27
