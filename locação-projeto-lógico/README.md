@@ -1,1 +1,1 @@
-
+<img src="locacao.jpg" />
