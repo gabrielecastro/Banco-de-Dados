@@ -10,5 +10,4 @@ Repositório de atividades desenvolvidas na matéria de Banco de Dados do curso 
 
 :round_pushpin: [BD Matrícula](https://github.com/gabrielecastro/Banco-de-Dados/tree/main/matricula-projeto-l%C3%B3gico) *Projeto Lógico*
 
-
-
+:round_pushpin: [Scripts SQL](https://github.com/gabrielecastro/Banco-de-Dados/tree/main/scripts-sql) *Scripts SQL*
